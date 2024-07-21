@@ -1,4 +1,4 @@
-![Brand Loyalty](https://github.com/user-attachments/assets/6411cd77-2d87-440d-ad16-7059af78ab11)
+![Brand Loyalty](https://github.com/user-attachments/assets/9f6d5517-564f-4920-96e6-a3eca0304b10)
 
 > Assistive brand loyalty evaluator.
 
